@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/Users/xkef/MyKituraApp/.build/checkouts/omr-agentcore/src/agentcore/include"
+    export *
+}
